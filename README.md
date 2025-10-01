@@ -1,0 +1,3 @@
+My name is Aviral Saini and im a 1st year btech student at GEU dehradun
+this file contains the programs that i made using C programming language
+i hope this helps...
